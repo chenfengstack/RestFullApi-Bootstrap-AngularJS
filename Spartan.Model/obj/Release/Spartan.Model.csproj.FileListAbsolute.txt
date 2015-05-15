@@ -1,0 +1,17 @@
+E:\source\spratan\trunk\Spartan.Model\bin\Release\Spartan.Model.dll.config
+E:\source\spratan\trunk\Spartan.Model\bin\Release\Spartan.Model.dll
+E:\source\spratan\trunk\Spartan.Model\bin\Release\Spartan.Model.pdb
+E:\source\spratan\trunk\Spartan.Model\bin\Release\EntityFramework.dll
+E:\source\spratan\trunk\Spartan.Model\bin\Release\EntityFramework.SqlServer.dll
+E:\source\spratan\trunk\Spartan.Model\bin\Release\MySql.Data.dll
+E:\source\spratan\trunk\Spartan.Model\bin\Release\MySql.Data.Entity.EF6.dll
+E:\source\spratan\trunk\Spartan.Model\bin\Release\EntityFramework.xml
+E:\source\spratan\trunk\Spartan.Model\bin\Release\EntityFramework.SqlServer.xml
+E:\source\spratan\trunk\Spartan.Model\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\source\spratan\trunk\Spartan.Model\bin\Release\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\source\spratan\trunk\Spartan.Model\obj\Release\Spartan.Model.csprojResolveAssemblyReference.cache
+E:\source\spratan\trunk\Spartan.Model\obj\Release\Spartan.Model.Migrations.config.one.resources
+E:\source\spratan\trunk\Spartan.Model\obj\Release\Spartan.Model.Migrations.config.two.resources
+E:\source\spratan\trunk\Spartan.Model\obj\Release\Spartan.Model.csproj.GenerateResource.Cache
+E:\source\spratan\trunk\Spartan.Model\obj\Release\Spartan.Model.dll
+E:\source\spratan\trunk\Spartan.Model\obj\Release\Spartan.Model.pdb

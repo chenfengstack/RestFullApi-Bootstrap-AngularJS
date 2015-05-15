@@ -1,0 +1,9 @@
+E:\source\spratan\trunk\Spartan.Framework\bin\Debug\Spartan.Framework.dll
+E:\source\spratan\trunk\Spartan.Framework\bin\Debug\Spartan.Framework.pdb
+E:\source\spratan\trunk\Spartan.Framework\bin\Debug\log4net.dll
+E:\source\spratan\trunk\Spartan.Framework\bin\Debug\Ninject.dll
+E:\source\spratan\trunk\Spartan.Framework\bin\Debug\log4net.xml
+E:\source\spratan\trunk\Spartan.Framework\bin\Debug\Ninject.xml
+E:\source\spratan\trunk\Spartan.Framework\obj\Debug\Spartan.Framework.csprojResolveAssemblyReference.cache
+E:\source\spratan\trunk\Spartan.Framework\obj\Debug\Spartan.Framework.dll
+E:\source\spratan\trunk\Spartan.Framework\obj\Debug\Spartan.Framework.pdb

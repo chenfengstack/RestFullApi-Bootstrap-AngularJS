@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="db-Web.config Connection String" description="db 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Datasource=localhost;Database=spartan;uid=root;pwd=123456;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\source\\spratan\\trunk\\Spartan\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='db']/@connectionString" />
+  </parameter>
+</parameters>

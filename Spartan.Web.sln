@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spartan.Api", "Spartan\Spartan.Api.csproj", "{7CC0251D-7625-4DE4-BB8F-16CE350877B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spartan.Framework", "Spartan.Framework\Spartan.Framework.csproj", "{2A788834-0C07-4574-8CA8-21EE4BAF8326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spartan.Model", "Spartan.Model\Spartan.Model.csproj", "{EDD41B85-7270-473F-8BE3-0084ADC9DAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spartan.Services", "Spartan.Services\Spartan.Services.csproj", "{5F7FAA40-6A1B-4601-AEF6-95B962440A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spartan.Tests", "Spartan.Tests\Spartan.Tests.csproj", "{8B51B381-D8E3-4955-BFCE-495CD85771C0}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Spartan.www", "http://localhost:8498", "{9F7E3642-8E60-433C-9169-B2F7A0505895}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_8498"
+		Debug.AspNetCompiler.PhysicalPath = "Spartan.www\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8498\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_8498"
+		Release.AspNetCompiler.PhysicalPath = "Spartan.www\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8498\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Spartan.www\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC0251D-7625-4DE4-BB8F-16CE350877B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC0251D-7625-4DE4-BB8F-16CE350877B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC0251D-7625-4DE4-BB8F-16CE350877B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC0251D-7625-4DE4-BB8F-16CE350877B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A788834-0C07-4574-8CA8-21EE4BAF8326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A788834-0C07-4574-8CA8-21EE4BAF8326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A788834-0C07-4574-8CA8-21EE4BAF8326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A788834-0C07-4574-8CA8-21EE4BAF8326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD41B85-7270-473F-8BE3-0084ADC9DAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD41B85-7270-473F-8BE3-0084ADC9DAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD41B85-7270-473F-8BE3-0084ADC9DAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD41B85-7270-473F-8BE3-0084ADC9DAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7FAA40-6A1B-4601-AEF6-95B962440A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7FAA40-6A1B-4601-AEF6-95B962440A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7FAA40-6A1B-4601-AEF6-95B962440A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7FAA40-6A1B-4601-AEF6-95B962440A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B51B381-D8E3-4955-BFCE-495CD85771C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B51B381-D8E3-4955-BFCE-495CD85771C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B51B381-D8E3-4955-BFCE-495CD85771C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B51B381-D8E3-4955-BFCE-495CD85771C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7E3642-8E60-433C-9169-B2F7A0505895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7E3642-8E60-433C-9169-B2F7A0505895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7E3642-8E60-433C-9169-B2F7A0505895}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7E3642-8E60-433C-9169-B2F7A0505895}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

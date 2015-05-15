@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SpartanDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SpartanDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="news" EntityType="SpartanDBModel.news" />
+  </EntityContainer>
+  <EntityType Name="news">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="NewName" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="AppTime" Type="DateTime" Precision="0" />
+  </EntityType>
+</Schema>
